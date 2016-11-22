@@ -1,6 +1,5 @@
 import os
 from collections import OrderedDict
-from datetime import datetime
 from operator import attrgetter as by
 from os.path import join as join_path
 
@@ -11,7 +10,8 @@ from classifier import ProposedClassifier
 from utils import read_cars, read_dataset
 
 if __name__ == '__main__':
-    splits_dirpath = join_path('..', 'datasets', 'splits')
+    splits_dirpath = 'splits'
+    rules_dirpath = 'rules'
 
     datasets_splits_dict = dict(
         map(lambda dataset_name:
@@ -22,15 +22,8 @@ if __name__ == '__main__':
             os.listdir(splits_dirpath))
     )
 
-    rules_dirpath = 'rules_final'
-
     mean_accuracy_dict = OrderedDict()
-    for dataset_name in sorted(
-            os.listdir(rules_dirpath)
-            # d for d in os.listdir('rules') if
-            # d in {'anneal', 'cylBands', 'glass', 'led7', 'letRecog', 'penDigits', 'pima',
-            #       'soybean-large', 'zoo'}
-    ):
+    for dataset_name in sorted(os.listdir(rules_dirpath)):
         print("Training classifiers for parts of dataset '%s'" % dataset_name)
         best_method_results = []
         both_rules_ave_results, both_rules_sum_results = [], []
@@ -77,7 +70,7 @@ if __name__ == '__main__':
         print('    - POS AVE    : %f' % mean_accuracy_dict[dataset_name]['POS AVE'])
         print('    - BOTH SUM   : %f' % mean_accuracy_dict[dataset_name]['BOTH SUM'])
         print('    - BOTH AVE   : %f' % mean_accuracy_dict[dataset_name]['BOTH AVE'])
-    with open('results/results%s.csv' % datetime.now().isoformat(), 'w+') as res_f:
+    with open('results.csv', 'w+') as res_f:
         res_f.write(',BEST,POS_SUM,POS_AVE,BOTH_SUM,BOTH_AVE%s' % os.linesep)
         for dataset_name, mean_accuracies in mean_accuracy_dict.items():
             res_f.write('%s, %.4f, %.4f4, %.4f, %.4f, %.4f%s' % (dataset_name,
