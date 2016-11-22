@@ -1,7 +1,7 @@
-# inno_2016_data_mining_paper
+# Innopolis 2016 Data Mining Paper
 The implementation of classifier proposed in paper considered as semester project on Innopolis Data Mining course.
 
-##Kingfisher
+## Kingfisher
 Unfortunatly kingfisher algorithm implementation is not working under linux or MacOS, it works only in Windows OS.
 To compile and run kingfisher do the following:
 1. Download and install [CMake](https://cmake.org/download/) for Windows
