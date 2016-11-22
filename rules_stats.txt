@@ -1,0 +1,468 @@
+Checking for 'adult' ...
+    train1_rules.txt:
+        # POS: 37    #NEG: 38
+    train2_rules.txt:
+        # POS: 35    #NEG: 36
+    train3_rules.txt:
+        # POS: 39    #NEG: 40
+    train4_rules.txt:
+        # POS: 38    #NEG: 39
+    train5_rules.txt:
+        # POS: 39    #NEG: 40
+    train6_rules.txt:
+        # POS: 39    #NEG: 40
+    train7_rules.txt:
+        # POS: 37    #NEG: 38
+    train8_rules.txt:
+        # POS: 39    #NEG: 40
+    train9_rules.txt:
+        # POS: 39    #NEG: 40
+    train10_rules.txt:
+        # POS: 37    #NEG: 38
+Checking for 'anneal' ...
+    train1_rules.txt:
+        # POS: 43    #NEG: 77
+    train2_rules.txt:
+        # POS: 42    #NEG: 79
+    train3_rules.txt:
+        # POS: 42    #NEG: 80
+    train4_rules.txt:
+        # POS: 41    #NEG: 78
+    train5_rules.txt:
+        # POS: 41    #NEG: 81
+    train6_rules.txt:
+        # POS: 37    #NEG: 78
+    train7_rules.txt:
+        # POS: 41    #NEG: 77
+    train8_rules.txt:
+        # POS: 41    #NEG: 82
+    train9_rules.txt:
+        # POS: 38    #NEG: 73
+    train10_rules.txt:
+        # POS: 42    #NEG: 79
+Checking for 'breast' ...
+    train1_rules.txt:
+        # POS: 27    #NEG: 28
+    train2_rules.txt:
+        # POS: 19    #NEG: 20
+    train3_rules.txt:
+        # POS: 20    #NEG: 21
+    train4_rules.txt:
+        # POS: 19    #NEG: 20
+    train5_rules.txt:
+        # POS: 22    #NEG: 23
+    train6_rules.txt:
+        # POS: 15    #NEG: 16
+    train7_rules.txt:
+        # POS: 17    #NEG: 18
+    train8_rules.txt:
+        # POS: 16    #NEG: 17
+    train9_rules.txt:
+        # POS: 16    #NEG: 17
+    train10_rules.txt:
+        # POS: 20    #NEG: 21
+Checking for 'cylBands' ...
+    train1_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+    train2_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+    train3_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+    train4_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+    train5_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+    train6_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+    train7_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+    train8_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+    train9_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+    train10_rules.txt:
+        No POSITIVE rules
+        No NEGATIVE rules
+        # POS: 0    #NEG: 0
+Checking for 'flare' ...
+    train1_rules.txt:
+        # POS: 18    #NEG: 112
+    train2_rules.txt:
+        # POS: 17    #NEG: 120
+    train3_rules.txt:
+        # POS: 12    #NEG: 109
+    train4_rules.txt:
+        # POS: 15    #NEG: 101
+    train5_rules.txt:
+        # POS: 15    #NEG: 113
+    train6_rules.txt:
+        # POS: 13    #NEG: 110
+    train7_rules.txt:
+        # POS: 14    #NEG: 110
+    train8_rules.txt:
+        # POS: 15    #NEG: 114
+    train9_rules.txt:
+        # POS: 17    #NEG: 106
+    train10_rules.txt:
+        # POS: 15    #NEG: 115
+Checking for 'glass' ...
+    train1_rules.txt:
+        # POS: 29    #NEG: 135
+    train2_rules.txt:
+        # POS: 29    #NEG: 138
+    train3_rules.txt:
+        # POS: 27    #NEG: 127
+    train4_rules.txt:
+        # POS: 31    #NEG: 130
+    train5_rules.txt:
+        # POS: 34    #NEG: 137
+    train6_rules.txt:
+        # POS: 31    #NEG: 119
+    train7_rules.txt:
+        # POS: 38    #NEG: 125
+    train8_rules.txt:
+        # POS: 26    #NEG: 140
+    train9_rules.txt:
+        # POS: 37    #NEG: 139
+    train10_rules.txt:
+        # POS: 32    #NEG: 129
+Checking for 'heart' ...
+    train1_rules.txt:
+        # POS: 93    #NEG: 244
+    train2_rules.txt:
+        # POS: 124    #NEG: 257
+    train3_rules.txt:
+        # POS: 87    #NEG: 252
+    train4_rules.txt:
+        # POS: 106    #NEG: 269
+    train5_rules.txt:
+        # POS: 95    #NEG: 231
+    train6_rules.txt:
+        # POS: 101    #NEG: 255
+    train7_rules.txt:
+        # POS: 99    #NEG: 242
+    train8_rules.txt:
+        # POS: 116    #NEG: 244
+    train9_rules.txt:
+        # POS: 112    #NEG: 279
+    train10_rules.txt:
+        # POS: 107    #NEG: 264
+Checking for 'hepatitis' ...
+    train1_rules.txt:
+        # POS: 107    #NEG: 111
+    train2_rules.txt:
+        # POS: 140    #NEG: 143
+    train3_rules.txt:
+        # POS: 104    #NEG: 108
+    train4_rules.txt:
+        # POS: 116    #NEG: 120
+    train5_rules.txt:
+        # POS: 104    #NEG: 107
+    train6_rules.txt:
+        # POS: 121    #NEG: 125
+    train7_rules.txt:
+        # POS: 100    #NEG: 104
+    train8_rules.txt:
+        # POS: 117    #NEG: 122
+    train9_rules.txt:
+        # POS: 82    #NEG: 86
+    train10_rules.txt:
+        # POS: 114    #NEG: 118
+Checking for 'horseColic' ...
+    train1_rules.txt:
+        # POS: 51    #NEG: 36
+    train2_rules.txt:
+        # POS: 51    #NEG: 35
+    train3_rules.txt:
+        # POS: 59    #NEG: 45
+    train4_rules.txt:
+        # POS: 44    #NEG: 30
+    train5_rules.txt:
+        # POS: 55    #NEG: 40
+    train6_rules.txt:
+        # POS: 52    #NEG: 36
+    train7_rules.txt:
+        # POS: 57    #NEG: 40
+    train8_rules.txt:
+        # POS: 46    #NEG: 32
+    train9_rules.txt:
+        # POS: 49    #NEG: 35
+    train10_rules.txt:
+        # POS: 49    #NEG: 34
+Checking for 'ionosphere' ...
+    train1_rules.txt:
+        # POS: 122    #NEG: 119
+    train2_rules.txt:
+        # POS: 123    #NEG: 123
+    train3_rules.txt:
+        # POS: 110    #NEG: 108
+    train4_rules.txt:
+        # POS: 112    #NEG: 110
+    train5_rules.txt:
+        # POS: 110    #NEG: 109
+    train6_rules.txt:
+        # POS: 130    #NEG: 126
+    train7_rules.txt:
+        # POS: 98    #NEG: 97
+    train8_rules.txt:
+        # POS: 107    #NEG: 104
+    train9_rules.txt:
+        # POS: 92    #NEG: 90
+    train10_rules.txt:
+        # POS: 140    #NEG: 138
+Checking for 'iris' ...
+    train1_rules.txt:
+        # POS: 8    #NEG: 14
+    train2_rules.txt:
+        # POS: 8    #NEG: 9
+    train3_rules.txt:
+        # POS: 10    #NEG: 10
+    train4_rules.txt:
+        # POS: 8    #NEG: 12
+    train5_rules.txt:
+        # POS: 8    #NEG: 11
+    train6_rules.txt:
+        # POS: 8    #NEG: 12
+    train7_rules.txt:
+        # POS: 8    #NEG: 12
+    train8_rules.txt:
+        # POS: 8    #NEG: 10
+    train9_rules.txt:
+        # POS: 8    #NEG: 10
+    train10_rules.txt:
+        # POS: 8    #NEG: 12
+Checking for 'led7' ...
+    train1_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 76
+    train2_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 76
+    train3_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 74
+    train4_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 75
+    train5_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 75
+    train6_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 74
+    train7_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 78
+    train8_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 76
+    train9_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 75
+    train10_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 75
+Checking for 'letRecog' ...
+    train1_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 89
+    train2_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 86
+    train3_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 89
+    train4_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 89
+    train5_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 90
+    train6_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 88
+    train7_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 87
+    train8_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 89
+    train9_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 90
+    train10_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 86
+Checking for 'mushroom' ...
+    train1_rules.txt:
+        # POS: 141    #NEG: 127
+    train2_rules.txt:
+        # POS: 138    #NEG: 124
+    train3_rules.txt:
+        # POS: 139    #NEG: 125
+    train4_rules.txt:
+        # POS: 141    #NEG: 126
+    train5_rules.txt:
+        # POS: 138    #NEG: 123
+    train6_rules.txt:
+        # POS: 136    #NEG: 122
+    train7_rules.txt:
+        # POS: 140    #NEG: 125
+    train8_rules.txt:
+        # POS: 137    #NEG: 122
+    train9_rules.txt:
+        # POS: 140    #NEG: 125
+    train10_rules.txt:
+        # POS: 137    #NEG: 122
+Checking for 'pageBlocks' ...
+    train1_rules.txt:
+        # POS: 153    #NEG: 38
+    train2_rules.txt:
+        # POS: 145    #NEG: 33
+    train3_rules.txt:
+        # POS: 136    #NEG: 38
+    train4_rules.txt:
+        # POS: 150    #NEG: 39
+    train5_rules.txt:
+        # POS: 105    #NEG: 34
+    train6_rules.txt:
+        # POS: 147    #NEG: 41
+    train7_rules.txt:
+        # POS: 133    #NEG: 41
+    train8_rules.txt:
+        # POS: 147    #NEG: 36
+    train9_rules.txt:
+        # POS: 120    #NEG: 36
+    train10_rules.txt:
+        # POS: 153    #NEG: 42
+Checking for 'penDigits' ...
+    train1_rules.txt:
+        # POS: 1    #NEG: 349
+    train2_rules.txt:
+        # POS: 1    #NEG: 351
+    train3_rules.txt:
+        # POS: 1    #NEG: 352
+    train4_rules.txt:
+        # POS: 1    #NEG: 351
+    train5_rules.txt:
+        # POS: 1    #NEG: 347
+    train6_rules.txt:
+        # POS: 1    #NEG: 345
+    train7_rules.txt:
+        # POS: 1    #NEG: 355
+    train8_rules.txt:
+        # POS: 1    #NEG: 351
+    train9_rules.txt:
+        No POSITIVE rules
+        # POS: 0    #NEG: 354
+    train10_rules.txt:
+        # POS: 1    #NEG: 351
+Checking for 'pima' ...
+    train1_rules.txt:
+        # POS: 88    #NEG: 95
+    train2_rules.txt:
+        # POS: 86    #NEG: 93
+    train3_rules.txt:
+        # POS: 95    #NEG: 102
+    train4_rules.txt:
+        # POS: 66    #NEG: 73
+    train5_rules.txt:
+        # POS: 76    #NEG: 83
+    train6_rules.txt:
+        # POS: 96    #NEG: 103
+    train7_rules.txt:
+        # POS: 105    #NEG: 112
+    train8_rules.txt:
+        # POS: 87    #NEG: 94
+    train9_rules.txt:
+        # POS: 96    #NEG: 103
+    train10_rules.txt:
+        # POS: 100    #NEG: 107
+Checking for 'soybean-large' ...
+    train1_rules.txt:
+        No NEGATIVE rules
+        # POS: 16744    #NEG: 0
+    train2_rules.txt:
+        # POS: 14651    #NEG: 1
+    train3_rules.txt:
+        No NEGATIVE rules
+        # POS: 15289    #NEG: 0
+    train4_rules.txt:
+        No NEGATIVE rules
+        # POS: 14804    #NEG: 0
+    train5_rules.txt:
+        No NEGATIVE rules
+        # POS: 15482    #NEG: 0
+    train6_rules.txt:
+        # POS: 14184    #NEG: 1
+    train7_rules.txt:
+        # POS: 15290    #NEG: 1
+    train8_rules.txt:
+        No NEGATIVE rules
+        # POS: 15266    #NEG: 0
+    train9_rules.txt:
+        No NEGATIVE rules
+        # POS: 15099    #NEG: 0
+    train10_rules.txt:
+        No NEGATIVE rules
+        # POS: 14384    #NEG: 0
+Checking for 'wine' ...
+    train1_rules.txt:
+        # POS: 42    #NEG: 71
+    train2_rules.txt:
+        # POS: 46    #NEG: 73
+    train3_rules.txt:
+        # POS: 43    #NEG: 83
+    train4_rules.txt:
+        # POS: 40    #NEG: 73
+    train5_rules.txt:
+        # POS: 42    #NEG: 79
+    train6_rules.txt:
+        # POS: 45    #NEG: 83
+    train7_rules.txt:
+        # POS: 43    #NEG: 78
+    train8_rules.txt:
+        # POS: 46    #NEG: 79
+    train9_rules.txt:
+        # POS: 48    #NEG: 76
+    train10_rules.txt:
+        # POS: 45    #NEG: 73
+Checking for 'zoo' ...
+    train1_rules.txt:
+        # POS: 556    #NEG: 137
+    train2_rules.txt:
+        # POS: 467    #NEG: 139
+    train3_rules.txt:
+        # POS: 452    #NEG: 131
+    train4_rules.txt:
+        # POS: 625    #NEG: 133
+    train5_rules.txt:
+        # POS: 453    #NEG: 126
+    train6_rules.txt:
+        # POS: 539    #NEG: 140
+    train7_rules.txt:
+        # POS: 529    #NEG: 141
+    train8_rules.txt:
+        # POS: 444    #NEG: 133
+    train9_rules.txt:
+        # POS: 484    #NEG: 139
+    train10_rules.txt:
+        # POS: 473    #NEG: 140

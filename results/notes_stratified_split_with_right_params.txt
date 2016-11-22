@@ -1,0 +1,12 @@
+adult - almost ok
+breast - ok
+flare - a little bit lower
+heart - almost ok
+hepatitis - ok (better than in paper)
+horse - similar to ok
+ionosphere - ok (better than in paper)
+iris - ok
+mushroom - a little bit lower
+pageBlocks - almost ok
+pima - POS_AVE ok, BOTH_AVE ok,
+wine - ok except BEST (it is higher)

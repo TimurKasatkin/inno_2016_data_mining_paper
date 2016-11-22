@@ -1,0 +1,20 @@
+adult - almost ok
+anneal
+breast - ok
+cylBands -
+flare
+glass
+heart
+hepatitis
+horse - similar to ok
+ionosphere
+iris - ok
+led7 -
+letRecog
+mushroom
+pageBlocks - almost ok
+penDigits
+pima - POS_AVE ok, BOTH_AVE ok,
+soybean
+wine - ok except BEST (it is higher)
+zoo
