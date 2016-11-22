@@ -4,6 +4,7 @@ The implementation of classifier proposed in paper considered as semester projec
 ## Kingfisher
 Unfortunately kingfisher algorithm implementation is not working under linux or MacOS, it works only in Windows OS.
 To compile and run kingfisher do the following:
+
 1. Download and install [CMake](https://cmake.org/download/) for Windows
 
 2. Download and install [MinGW](https://sourceforge.net/projects/mingw/files/) for Windows
