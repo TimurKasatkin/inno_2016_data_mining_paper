@@ -13,8 +13,8 @@ To compile and run kingfisher do the following:
 
 4. Open Command Line in Kingfisher folder
  
-5. cmake -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=RELEASE -DBUILD_SHARED_LIBS=0 ./
+5. `cmake -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=RELEASE -DBUILD_SHARED_LIBS=0 ./`
 
-6. mingw32-make
+6. `mingw32-make`
 
-7. kingfisher.exe -i <discretized dataset path> -k125 -M-0.1 -g<class labels> -c<min conf> -m0.1 -o<output file> 
+7. `kingfisher.exe -i ../splits/adult/train1.txt -k125 -M-0.1 -g96-97 -c0.7 -m0.1 -o../rules/adult/train1_rules.txt`
